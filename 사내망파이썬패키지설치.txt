@@ -1,0 +1,7 @@
+# Python 설치
+https://www.python.org/
+
+# 사내망에서 python  라이브러리 설치
+python -m pip install --upgrade pip --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host files.pythonhosted.org  패키지명 
+
+pip install --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host files.pythonhosted.org pandas
