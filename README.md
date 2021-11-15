@@ -1,1 +1,1 @@
-# AI Summary
+# AI Summary 강의자료
